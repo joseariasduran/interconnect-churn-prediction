@@ -1,0 +1,8 @@
+# Ignorar bases de datos
+data/
+*.csv
+
+# Ignorar archivos temporales de Jupyter y Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
