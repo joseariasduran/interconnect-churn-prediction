@@ -32,4 +32,4 @@ El modelo final basado en **LightGBM** (optimizando hiperparámetros y compensan
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [https://github.com/tu-usuario/interconnect-churn-prediction.git](https://github.com/tu-usuario/interconnect-churn-prediction.git)
+   git clone [https://github.com/tu-usuario/interconnect-churn-prediction.git](https://github.com/joseariasduran/interconnect-churn-prediction.git)
